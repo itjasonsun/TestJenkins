@@ -13,7 +13,7 @@ namespace TestJenkins.Controllers
 	{
 		private static readonly string[] Summaries = new[]
 		{
-			"Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Scorching222", "Sweltering", "Scorching", "Scorching222"
+			"Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Scorching222", "Sweltering"
 		};
 
 		private readonly ILogger<WeatherForecastController> _logger;
